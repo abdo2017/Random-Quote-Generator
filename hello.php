@@ -42,8 +42,6 @@ function getRandomQuote($quotes) {
     return $quotes[$random];
 }
 
-$quote = getRandomQuote();
-
 function printQuote() {
   // create a variable that calls the getRandomQuote() function, passing in the quotes array as an argument
   $quote = getRandomQuote();

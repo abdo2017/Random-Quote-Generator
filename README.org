@@ -1,0 +1,22 @@
+#+TITLE:   Random Quote Generator
+#+DATE:    January 14, 2020
+#+STARTUP: inlineimages nofold
+
+* Table of Contents :TOC_3:noexport:
+- [[#description][Description]]
+  - [[#module-flags][Module Flags]]
+  - [[#plugins][Plugins]]
+- [[#prerequisites][Prerequisites]]
+
+* Description
+A file to generate Random Quote Generator using pure php, not using any external
+libarary, using two functions and one array one generates a random number from
+the quotes array and one returns the quote in with html attributes.
+
+** Module Flags
+This module provides no flags.
+
+** Plugins
+None.
+* Prerequisites
+good for php beginners.
